@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -71,7 +71,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -95,7 +95,658 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330fce890c9a9e46b27a3e20e14a00d
+      internalID: 416515472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44689c9cd75aa045b61e6c592ec5325
+      internalID: -1300573049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e620ff02d5e7576439e9a6b772d59618
+      internalID: -304003701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4127f919b48d17a468d2a23e81f26611
+      internalID: 1714534105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a96517b5493254b89efeaa99bf955f
+      internalID: -824877292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703c9fd94a91114483222d4f2f16721
+      internalID: 1984639404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b946642ea7f346644a2bc73f30b35ca6
+      internalID: -65238910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57779a3fa62521e4aa412422b57c8700
+      internalID: -1510648022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 580
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae25dca8a53a4aa4d8d8e93afb2510db
+      internalID: 1058028014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 580
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad942de73f3c74041a7c29a3f6b7a265
+      internalID: -1758897229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 580
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c40933c9273e64f8bf77cd962ab40b
+      internalID: -1995472533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 580
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4dcafc5f35dd647945a7dc2e4f584f
+      internalID: 181947484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_12
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 580
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c3b224a14f3343bffc9570928b1b4
+      internalID: 1348696212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1474ece7339f6f4fa506f100b89d015
+      internalID: 19776576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 390
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f67ede1fed36a74b953f77e5504bfeb
+      internalID: -1458890836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 390
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c057c83f6603649aa81b2fdb48b5a8
+      internalID: 840937878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 390
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b8b65d97e59c140b250d73f7ce96e3
+      internalID: 1766555057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_17
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 390
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54d713b6984f3459eed874bb236f74
+      internalID: 1292074705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_18
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 390
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44fb7bcb12b83b46a6021289c22d8a6
+      internalID: 1929964725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a52d2c9c44c4141ab7d1654d206043
+      internalID: -718607337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e0f7b5d0c1494cbc5bb3f23c46465
+      internalID: 94069317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 200
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a55e71e7381a46987d1a69423acb0
+      internalID: 1557193261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 200
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02d9e42e881c8f488eb2f4fdab702b7
+      internalID: -1312140294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_23
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 200
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8dadca1f280340bf3aa76ceed7300
+      internalID: -1040396463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_24
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 200
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca803a313d61b14bafbd2c2b3c0c8cc
+      internalID: 1149211414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef37179294010a43821436860657c55
+      internalID: 126850324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511cd41a403be554bb564b6eec3a5d6a
+      internalID: -1283060628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5cd728b4abaa74ba0fb9d9a9d481b0
+      internalID: 1201029610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 10
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fdf17752911a44f92c8cbb7a4a068d
+      internalID: -1238891432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 10
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dfb2d5ab569ee4987d99c8f195612a
+      internalID: 1902130080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Red_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 10
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2beeecf1536a44a7a1aa0d9d1a9ca
+      internalID: -8527982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +757,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Goblin Red_0: 416515472
+      Goblin Red_1: -1300573049
+      Goblin Red_10: -1995472533
+      Goblin Red_11: 181947484
+      Goblin Red_12: 1348696212
+      Goblin Red_13: 19776576
+      Goblin Red_14: -1458890836
+      Goblin Red_15: 840937878
+      Goblin Red_16: 1766555057
+      Goblin Red_17: 1292074705
+      Goblin Red_18: 1929964725
+      Goblin Red_19: -718607337
+      Goblin Red_2: -304003701
+      Goblin Red_20: 94069317
+      Goblin Red_21: 1557193261
+      Goblin Red_22: -1312140294
+      Goblin Red_23: -1040396463
+      Goblin Red_24: 1149211414
+      Goblin Red_25: 126850324
+      Goblin Red_26: -1283060628
+      Goblin Red_27: 1201029610
+      Goblin Red_28: -1238891432
+      Goblin Red_29: 1902130080
+      Goblin Red_3: 1714534105
+      Goblin Red_30: -8527982
+      Goblin Red_4: -824877292
+      Goblin Red_5: 1984639404
+      Goblin Red_6: -65238910
+      Goblin Red_7: -1510648022
+      Goblin Red_8: 1058028014
+      Goblin Red_9: -1758897229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
