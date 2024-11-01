@@ -44,8 +44,10 @@ public class Player_combat : MonoBehaviour
 
         if(enemies.Length > 0)
         {
-            enemies[0].GetComponent<Enemy_Health>().ChangeHealth(-damage);
-            enemies[0].GetComponent<Enemy_Knockback>().Knockback(transform, knockbackForce,knockbackTime, stunTime);
+            for (int i = 0; i < enemies.Length; i++) {
+            enemies[i].GetComponent<Enemy_Health>().ChangeHealth(-damage);
+            enemies[i].GetComponent<Enemy_Knockback>().Knockback(transform, knockbackForce,knockbackTime, stunTime);
+            }
         }
     }
 
